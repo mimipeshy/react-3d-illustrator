@@ -1,0 +1,8 @@
+.main-fact {
+   /* text-align: center; */
+   display: inline;
+   text-align: center;
+}
+.main-fact > ol >li {
+   
+}
