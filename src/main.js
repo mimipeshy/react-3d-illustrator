@@ -20,7 +20,7 @@ function Main() {
         </div>
         <div className="glass"></div>
         <div className="content">
-          <span className="title">Fun Facts Avout me (3D UI)</span>
+          <span className="title">Fun Facts About me (3D UI)</span>
           <span className="text">I am 29years old, and am a self taught frontend programmer</span>
         </div>
         <div className="bottom">
